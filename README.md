@@ -1,2 +1,7 @@
-# saferly
-Long Nguyen, Zach Szeto, Eric Xiao, Riley Pasicaran
+# ElderlyEmail
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
