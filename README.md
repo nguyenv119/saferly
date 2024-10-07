@@ -10,3 +10,4 @@ Challenges We Ran Into One of our biggest challenges was setting up the backend 
 
 ## Contributions
 Long Nguyen: Backend, Frontend, Cloud, Crying
+Zachary Szeto: API Integration (Gmail, IP Address Verification, Email Verification, Password Generator) and Google Cloud Functions
