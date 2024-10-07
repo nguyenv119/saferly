@@ -9,5 +9,5 @@ How We Built It Our team used a combination of machine learning and cybersecurit
 Challenges We Ran Into One of our biggest challenges was setting up the backend to securely connect to the Gmail API, allowing Saferly to access and analyze users' emails directly. This involved ensuring that our app could authenticate and securely handle email data while protecting user privacy. We needed to balance robust security protocols with a seamless connection to Gmail. Additionally, it required extensive testing to ensure that Saferly could retrieve emails reliably and provide real-time threat detection without compromising the user experience.
 
 ## Contributions
-Long Nguyen: Backend, Frontend, Cloud, Crying
+Long Nguyen: Backend, Frontend, Cloud, Crying<br>
 Zachary Szeto: API Integration (Gmail, IP Address Verification, Email Verification, Password Generator) and Google Cloud Functions
