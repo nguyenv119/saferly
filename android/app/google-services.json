@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "938087355542",
+    "project_id": "elderly-email-pb6b1z",
+    "storage_bucket": "elderly-email-pb6b1z.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938087355542:android:85f0ac6fc8b1d9dbca5eb7",
+        "android_client_info": {
+          "package_name": "com.mycompany.elderlyemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938087355542-p54g3qm8d57ejaoh06o5tu3a0skmv6ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.elderlyemail",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "938087355542-et8vuse3d8nql54dcvn8t3asjsmdc62k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARP4HlzvW09FBgVVoSjqf12sSV2oe3EAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938087355542-et8vuse3d8nql54dcvn8t3asjsmdc62k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938087355542-v3g211d44fjtf7u5k4jjsdv8bbnadcjc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.elderlyemail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
