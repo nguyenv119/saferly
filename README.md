@@ -1,6 +1,6 @@
 # Saferly
 
-Inspiration The inspiration behind Saferly came from a growing concern for the elderly population, many of whom live alone and face increasing risks from online scams. Nearly one-third of all seniors live independently, often without immediate family connections, and 82% of them report difficulties using new digital devices. Recognizing this vulnerability, our team set out to build a solution that could help protect seniors from digital threats, enabling them to connect with loved ones safely and confidently.
+The inspiration behind Saferly came from a growing concern for the elderly population, many of whom live alone and face increasing risks from online scams. Nearly one-third of all seniors live independently, often without immediate family connections, and 82% of them report difficulties using new digital devices. Recognizing this vulnerability, our team set out to build a solution that could help protect seniors from digital threats, enabling them to connect with loved ones safely and confidently.
 
 What It Does Saferly is a user-friendly app designed to help seniors navigate the internet securely. It provides essential tools such as email verification, website scanning, and a password manager, all aimed at reducing the risk of falling victim to scams. The app assigns a safety score to websites and emails, helping users quickly assess potential risks. Saferly also simplifies direct communication with trusted contacts, making it easier for seniors to stay connected with their family and friends.
 
